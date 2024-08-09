@@ -1,0 +1,7 @@
+
+out/
+.idea
+*.iml
+
+!**/src/main/**/out/
+!**/src/HomeWork13/**/out/
